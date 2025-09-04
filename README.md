@@ -43,25 +43,9 @@
 ---
 
 ### 🎯 Learning Goals
-- 📌 **RAG (Retrieval-Augmented Generation) Systems**  
+- 📌 **AI/ML**  
 - 📌 **DSA in Java**  
-
----
-
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitgarg19764&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgarg19764&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgarg19764&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/harshitgarg19764/harshitgarg19764/blob/output/snake.svg" alt="snake animation" />
-</p>
-
+- 📌 **BACKEND in Java**  
 
 ---
 
