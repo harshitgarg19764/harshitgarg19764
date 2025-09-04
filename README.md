@@ -52,7 +52,7 @@
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/harshit-garg-217751323" target="blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="120" height="35"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" height="35"/>
 </a>
 <a href="https://www.leetcode.com/harshitgarg30" target="blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
@@ -69,6 +69,6 @@
 
 ### 🎮 Fun Corner
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </p>
 
