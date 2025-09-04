@@ -56,13 +56,13 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="40" width="40"/>
   </a>
   <a href="https://www.leetcode.com/harshitgarg30" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
+    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="40" width="40" />
   </a>
   <a href="https://instagram.com/ig_harshit30" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" height="40" width="40"/>
   </a>
   <a href="mailto:your.email@example.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://i.pinimg.com/736x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" height="40" width="40" />
   </a>
 </p>
 
