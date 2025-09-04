@@ -57,13 +57,13 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="80" width="80"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/harshitgarg30" target="blank">
-    <img src="https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png" height="80" width="80" style="border-radius:5px;"/>
+    <img src="https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png" height="80" width="80"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ig_harshit30" target="blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" height="80" width="80"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:your.email@example.com" target="blank">
-    <img src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon.png" height="80" width="80" style="border-radius:5px;"/>
+    <img src="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" height="80" width="80"/>
   </a>
 </p>
 
