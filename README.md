@@ -57,15 +57,16 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="80" width="80"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/harshitgarg30" target="blank">
-    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="80" width="80"/>
+    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="80" width="80" style="border-radius:5px;"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ig_harshit30" target="blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" height="80" width="80"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:your.email@example.com" target="blank">
-    <img src="https://i.pinimg.com/736x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" height="80" width="80"/>
+    <img src="https://i.pinimg.com/736x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" height="80" width="80" style="border-radius:5px;"/>
   </a>
 </p>
+
 
 
 ---
