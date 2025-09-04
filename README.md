@@ -52,7 +52,7 @@
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/harshit-garg-217751323" target="blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" height="35"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="35"/>
 </a>
 <a href="https://www.leetcode.com/harshitgarg30" target="blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
