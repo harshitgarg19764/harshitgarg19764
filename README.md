@@ -63,7 +63,7 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" height="80" width="80"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:your.email@example.com" target="blank">
-    <img src="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" height="80" width="80"/>
+    <img src="https://github.com/user-attachments/assets/87404d6a-1201-4463-9094-62afdb095906" height="80" width="80"/>
   </a>
 </p>
 
