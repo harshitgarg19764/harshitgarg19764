@@ -20,17 +20,18 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="70" width="70" style="margin: 15px;"/>
-  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" height="70" width="70" style="margin: 15px;"/>
-  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" height="70" width="70" style="margin: 15px;"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="70" width="70" style="margin: 15px;"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="70" width="70" style="margin: 15px;"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="70" width="70" style="margin: 15px;"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" height="70" width="70" style="margin: 15px;"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="70" width="70" style="margin: 15px;"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" height="70" width="70" style="margin: 15px;"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="70" width="70" style="margin: 15px;"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="70" width="70"/>
 </p>
+
 
 ---
 
