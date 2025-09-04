@@ -53,16 +53,16 @@
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/harshit-garg-217751323" target="blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="55" width="55" style="margin: 12px;"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="80" width="80" style="margin: 25px;"/>
   </a>
   <a href="https://www.leetcode.com/harshitgarg30" target="blank">
-    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="55" width="55" style="margin: 12px;"/>
+    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="80" width="80" style="margin: 25px;"/>
   </a>
   <a href="https://instagram.com/ig_harshit30" target="blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" height="55" width="55" style="margin: 12px;"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" height="80" width="80" style="margin: 25px;"/>
   </a>
   <a href="mailto:your.email@example.com" target="blank">
-    <img src="https://i.pinimg.com/736x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" height="55" width="55" style="margin: 12px;"/>
+    <img src="https://i.pinimg.com/736x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" height="80" width="80" style="margin: 25px;"/>
   </a>
 </p>
 
