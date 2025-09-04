@@ -51,7 +51,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/harshit-garg-217751323" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+<a href="https://linkedin.com/in/harshit-garg-217751323" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" /></a>
 <a href="https://www.leetcode.com/harshitgarg30" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
 <a href="https://instagram.com/ig_harshit30" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 <a href="mailto:your.email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
