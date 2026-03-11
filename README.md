@@ -29,7 +29,6 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" height="70" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="70" width="70"/>
 </p>
 
 
